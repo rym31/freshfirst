@@ -1,0 +1,21 @@
+# Environnements virtuels
+.env/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Bases de données et données locales
+*.db
+*.sqlite3
+instance/
+
+# Secrets
+.env
+*.env
+
+# Éditeur et système
+.vscode/
+.DS_Store
